@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Me
+title: 關於我
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+本資料科學部落格主要是整體課程中，關於機器學習、深度學習的各種文章，並且帶有 DEMO CODE，方便後進人員，方便閱讀。
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+本資料科學部落格是採用 **[fastpages](https://github.com/fastai/fastpages)** [^1] 進行搭建，更多資訊可以點開連結，進行查閱。
 
 
 
