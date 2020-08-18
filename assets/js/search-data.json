@@ -39,8 +39,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "關於我",
+          "content": "本資料科學部落格主要是整體課程中，關於機器學習、深度學習的各種文章，並且帶有 DEMO CODE，方便後進人員，方便閱讀。 . 本資料科學部落格是採用 fastpages 1 進行搭建，更多資訊可以點開連結，進行查閱。 . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://heng-xiu.github.io/MachineLearning-In-Action/about/",
           "relUrl": "/about/",
           "date": ""
